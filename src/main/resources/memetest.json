@@ -1,0 +1,15 @@
+[
+{
+	"name": "Customer1",
+	"year": "2012",
+	"tags": ["tall","old","sfo"]
+},{
+	"name": "Customer2",
+	"year": "2013",
+	"tags": ["short","young","sunnyvale"]
+},{
+	"name": "Customer3",
+	"year": "2010",
+	"tags": ["tall","middle","santa clara"]
+}
+]
